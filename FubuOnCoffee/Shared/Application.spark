@@ -1,0 +1,13 @@
+﻿<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>FubuOnCoffee</title>
+    <use content="head"/>
+    <Styles />
+  </head>
+  <body>
+    <use content="view" />
+    <Scripts />
+  </body>
+</html>

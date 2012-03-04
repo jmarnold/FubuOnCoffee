@@ -1,0 +1,6 @@
+<use namespace="FubuOnCoffee.Example" />
+<viewdata model="FubuOnCoffee.Example.ExampleModel" />
+<content:head>
+  <Script src="example.js" />
+</content:head>
+<h1 id="message"></h1>
